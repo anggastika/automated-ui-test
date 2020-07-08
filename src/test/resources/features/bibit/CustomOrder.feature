@@ -1,4 +1,4 @@
-@Android @CustomOrder @Regression
+@Android @CustomOrder @Regression @Test
 
   Feature: Custom Order
 

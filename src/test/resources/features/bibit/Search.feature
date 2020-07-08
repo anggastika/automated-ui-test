@@ -1,4 +1,4 @@
-@Android @Search @Regression
+@Android @Search @Regression @Test
 
 Feature: Search
 

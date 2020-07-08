@@ -1,4 +1,4 @@
-@Android @TipsUntukKamu
+@Android @TipsUntukKamu @Test
 
   Feature: Tips Untuk Kamu
 

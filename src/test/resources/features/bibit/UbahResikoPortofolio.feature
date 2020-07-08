@@ -1,4 +1,4 @@
-@Android @UbahResikoPortofolio
+@Android @UbahResikoPortofolio @Test
   Feature: Ubah Resiko Portofolio
 
     Scenario: Change User Resiko portofolio to Portfolio Konservatif

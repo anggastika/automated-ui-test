@@ -1,4 +1,4 @@
-@Android @Giftcard @Regression
+@Android @Giftcard @Regression @Test
 
 Feature: Giftcard
 

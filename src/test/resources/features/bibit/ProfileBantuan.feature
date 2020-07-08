@@ -1,4 +1,4 @@
-@Android @ProfileBantuan
+@Android @ProfileBantuan @Test
 
 Feature: Profile Bantuan
   Scenario: User try bantuan chat support via profile

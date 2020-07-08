@@ -1,4 +1,4 @@
-@Android @NabungRutin
+@Android @NabungRutin @Test
 
 Feature: Nabung Rutin
 

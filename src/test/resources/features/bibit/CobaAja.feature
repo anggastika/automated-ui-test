@@ -1,4 +1,4 @@
-@Android @CobaAja
+@Android @CobaAja @Test
 
   Feature: Coba aja
 

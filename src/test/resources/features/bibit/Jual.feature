@@ -1,4 +1,4 @@
-@Android @Jual @Regression
+@Android @Jual @Regression @Test
 
 Feature: Jual Reksadana
 

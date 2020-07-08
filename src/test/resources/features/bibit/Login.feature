@@ -1,4 +1,4 @@
-@Android @Login @Regression
+@Android @Login @Regression @Test
 
 Feature: Login
 

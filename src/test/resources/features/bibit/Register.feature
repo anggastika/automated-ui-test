@@ -1,4 +1,4 @@
-@Android @Register @Regression
+@Android @Register @Regression @Test
 
 Feature: Register
 

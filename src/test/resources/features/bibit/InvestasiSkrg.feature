@@ -1,4 +1,4 @@
-@Android @InvestasiSkrg @Regression
+@Android @InvestasiSkrg @Regression @Test
 
 Feature: Investasi Sekarang
 

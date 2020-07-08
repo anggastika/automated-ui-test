@@ -1,4 +1,4 @@
-@Android @AktifasiAtProfile
+@Android @AktifasiAtProfile @Test
 
   Feature: Aktifasi
 

@@ -1,4 +1,4 @@
-@Android @HistoryFilter
+@Android @HistoryFilter @Test
 
   Feature: History Filter
     Scenario: User try to filter history to see the buying transaction past 6 month

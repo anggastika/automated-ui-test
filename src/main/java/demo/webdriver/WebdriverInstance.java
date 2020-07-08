@@ -18,7 +18,7 @@ public class WebdriverInstance {
     //set chromeOptions. You can check here: https://peter.sh/experiments/chromium-command-line-switches/
     options.addArguments("--incognito", "--start-maximized");
     //set desired capabilities
-    options.setCapability(CapabilityType.PLATFORM_NAME, Platform.WINDOWS);
+    options.setCapability(CapabilityType.PLATFORM_NAME, Platform.LINUX);
     options.setCapability(CapabilityType.BROWSER_NAME, BrowserType.CHROME);
     //instantiate webdriver
     webdriver = new ChromeDriver(options);

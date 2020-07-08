@@ -1,4 +1,4 @@
-@Android @QuizInvestasi
+@Android @QuizInvestasi @Test
 
 Feature: Quiz investasi
 

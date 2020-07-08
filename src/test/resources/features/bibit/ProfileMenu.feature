@@ -1,4 +1,4 @@
-@Android @ProfileMenu @Regression
+@Android @ProfileMenu @Regression @Test
 
 Feature: Profile
 

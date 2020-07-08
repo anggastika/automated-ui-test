@@ -1,4 +1,4 @@
-@Android @Topup @Regression
+@Android @Topup @Regression @Test
 
 Feature: Topup Investasi
 

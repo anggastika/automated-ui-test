@@ -30,7 +30,7 @@ public class AndroidDriverInstance {
     caps.setCapability("appPackage", "com.bibit.bibitid");
     caps.setCapability("appActivity", ".MainActivity");
     caps.setCapability("automationName", "UiAutomator2");
-    caps.setCapability("chromedriverExecutable", System.getProperty("user.dir") + File.separator + "chromedriver.exe");
+    caps.setCapability("chromedriverExecutable", System.getProperty("user.dir") + File.separator + "chromedriver");
 
     try {
       androidDriver = new AndroidDriver<>(new URL(appiumUrl), caps);

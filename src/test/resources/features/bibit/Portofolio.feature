@@ -1,4 +1,4 @@
-@Android @Portofolio @Regression
+@Android @Portofolio @Regression @Test
 
 Feature: Portofolio
 

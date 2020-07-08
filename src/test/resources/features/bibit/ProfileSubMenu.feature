@@ -1,4 +1,4 @@
-@Android @ProfileSubMenu
+@Android @ProfileSubMenu @Test
 
   Feature: Profile SubMenu
     Scenario: User open FAQ in Profile

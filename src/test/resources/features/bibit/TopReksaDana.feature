@@ -1,4 +1,4 @@
-@Android @TopReksaDana
+@Android @TopReksaDana @Test
 
   Feature: Top Reksadana
 

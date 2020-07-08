@@ -1,4 +1,4 @@
-@Android @Transaksi @Regression
+@Android @Transaksi @Regression @Test
 
 Feature: Transaksi
 
