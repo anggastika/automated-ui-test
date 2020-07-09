@@ -1,6 +1,6 @@
 # automated-ui-test
 
-is a Automated UI Test project for Bibit Apps.
+is a Automated UI Test project for Sample Apps.
 
 ## The Equipments
 1. Intellij IDE latest version with plugin Lombok,Gherkin,Cucumber.
@@ -103,4 +103,4 @@ The developer then reviews the requirements (or acceptance criteria) and creates
 
 
 ## License
-Under bibit/stockbit licensing
+no
